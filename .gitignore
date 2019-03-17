@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MediaFilesLoader/v15
+/MediaFilesLoader/bin/Debug
+/MediaFilesLoader/obj/Debug
+/MediaFilesLoader.sln.DotSettings.user
+/packages
